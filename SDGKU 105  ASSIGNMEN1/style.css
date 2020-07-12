@@ -1,0 +1,17 @@
+h1{
+  text-align: center;
+  font-size: x-large;
+  font-style: oblique;
+  color: palevioletred;
+}
+
+img{
+  width: 90%;
+  
+}
+
+
+button{
+  background-color: palevioletred;
+  color: azure;
+}
